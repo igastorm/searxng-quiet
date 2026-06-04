@@ -1,4 +1,4 @@
-FROM searxng/searxng:latest@sha256:0872beb1d495d41f2dda73d7aea83746657afdd2be3010eb1b11f5a541555c9e
+FROM searxng/searxng:latest@sha256:e9f02371d94e8cdcc2231c8987d88794654416774e12e47e82ae43943a1baa5a
 
 USER root
 
